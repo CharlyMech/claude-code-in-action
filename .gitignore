@@ -1,0 +1,10 @@
+# Global
+.DS_Store
+
+# uigen (Next.js / Prisma / TypeScript)
+uigen/.next/
+uigen/node_modules/
+uigen/.env
+uigen/.env*.local
+uigen/prisma/*.db
+uigen/prisma/*.db-journal
